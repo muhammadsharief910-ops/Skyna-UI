@@ -4202,6 +4202,19 @@ html.sr-html {
   background: #e8eddb80;
   box-shadow: inset 0 -2px #83945c;
 }
+/* Composite fields show focus on their rounded container, not the inner control. */
+.sunroom-app .sr-search select:focus,
+.sunroom-app .sr-search-input input:focus {
+  outline: none;
+  box-shadow: none;
+}
+.sr-search-input {
+  transition: border-color 220ms, box-shadow 220ms;
+}
+.sr-search-input:focus-within {
+  border-color: #83945c;
+  box-shadow: 0 0 0 2px #83945c26;
+}
 .sr-tabs > button {
   transition:
     background 240ms,
