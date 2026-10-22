@@ -1,0 +1,12 @@
+.git
+.netlify
+.env
+.env.*
+node_modules
+dist
+reference
+docs
+outputs
+work
+*.md
+netlify.toml

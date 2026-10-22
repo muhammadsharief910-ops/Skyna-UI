@@ -1201,4 +1201,16 @@ function App() {
   );
 }
 
-createRoot(document.getElementById("root")).render(<App />);
+const SunroomApp = React.lazy(() => import("./sunroom/SunroomApp.jsx"));
+const isSunroom = /^\/2(?:\/|$)/.test(window.location.pathname);
+createRoot(document.getElementById("root")).render(
+  isSunroom ? (
+    <React.Suspense
+      fallback={<div style={{ minHeight: "100vh", background: "#f8f6ed" }} />}
+    >
+      <SunroomApp />
+    </React.Suspense>
+  ) : (
+    <App />
+  ),
+);

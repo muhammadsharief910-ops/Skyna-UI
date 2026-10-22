@@ -1,6 +1,8 @@
 # Skyna — a little room for wonder
 
-A complete responsive React homepage inspired by the approved Skyna visual concept: cinematic landscapes, warm ivory, forest green, expressive serif typography, and orange accents.
+Two responsive React design directions for Skyna: the original cinematic homepage and the approved Sunroom website with warm plaster, olive accents, arched photography, and scroll-linked depth.
+
+Live website: [skyna-travel.vercel.app](https://skyna-travel.vercel.app). Production opens the Sunroom design at `/2`; the original remains available at `/1`.
 
 ## Run locally
 
@@ -11,12 +13,23 @@ npm run dev
 
 Open the Local URL printed by Vite. Node.js 20.19+ or 22.12+ is recommended. This project was built with React 19, Vite 7, and Lucide icons.
 
+## Design routes
+
+- `/` and `/1`: original cinematic homepage.
+- `/2`: Sunroom homepage.
+- `/2/destinations` and `/2/destinations/:slug`: India and international destination discovery and stories.
+- `/2/journeys` and `/2/journeys/:slug`: journeys, filters, and itineraries.
+- `/2/experiences`, `/2/about`, and `/2/plan`: experiences, traveler stories, and a reviewable enquiry flow.
+
+Sunroom adds eight generated assets and uses GSAP for layered arrival, ambient light and foliage, coordinated 3D scroll, and pointer depth. Destination image transitions, animated filters, stacked experience scenes, itinerary progress, and a live trip summary extend the same visual direction. Its interface is built from live HTML elements rather than a flattened screenshot. See `docs/SUNROOM-MOTION-IMPLEMENTATION.md` for the motion choreography and validation, and `docs/SUNROOM-LIVING-MOTION-PLAN.md` for the broader direction and later refinements.
+
 ```sh
 npm run build
 npm run preview
 ```
 
 `dist/` is the production build and can be served by any static host. It needs an HTTP server; opening its HTML directly through `file://` is not supported.
+Configure the host to serve `index.html` for application routes so direct links such as `/2/destinations/bali` work.
 
 ## Included
 
@@ -33,6 +46,7 @@ npm run preview
 
 - `src/main.jsx`: React components and UI interactions.
 - `src/styles.css`: responsive layout, visual design, and motion preferences.
+- `src/sunroom/`: Sunroom routes, content, scoped styling, and GSAP motion.
 - `src/data.json`: curated trip and testimonial content from the collected Skyna reference.
 - `src/fonts.css`: local font declarations.
 - `public/images/`: new generated imagery used by the homepage.

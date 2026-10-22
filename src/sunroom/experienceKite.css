@@ -1,0 +1,85 @@
+.sr-experiences-scene {
+  position: relative;
+  isolation: isolate;
+}
+.sr-experience-long-cord {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 0;
+  z-index: 2;
+  overflow: hidden;
+  pointer-events: none;
+}
+.sr-experiences-intro {
+  position: relative;
+  min-height: 445px;
+  isolation: isolate;
+  z-index: 3;
+}
+.sr-experiences-intro > .sr-page-intro {
+  position: relative;
+  z-index: 1;
+  width: 65%;
+}
+.sr-experience-kite {
+  position: absolute;
+  top: 8px;
+  right: -5%;
+  width: min(560px, 47%);
+  aspect-ratio: 600 / 540;
+  pointer-events: none;
+  user-select: none;
+  perspective: 1000px;
+}
+.sr-kite-scroll,
+.sr-kite-arrival,
+.sr-kite-depth,
+.sr-kite-sway {
+  width: 100%;
+  height: 100%;
+}
+.sr-kite-sway {
+  transform-origin: 36% 30%;
+}
+.sr-kite-depth {
+  transform-origin: 40% 40%;
+}
+.sr-kite-art {
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  filter: drop-shadow(7px 12px 8px #6256321a);
+}
+.sr-kite-ribbon {
+  opacity: .95;
+}
+@media (max-width: 1100px) and (min-width: 850px) {
+  .sr-experiences-intro > .sr-page-intro h1 {
+    font-size: clamp(62px, 6.6vw, 73px);
+  }
+  .sr-experiences-intro {
+    min-height: 400px;
+  }
+  .sr-experience-kite {
+    top: 28px;
+  }
+}
+@media (max-width: 849px) {
+  .sr-experiences-intro {
+    min-height: 0;
+  }
+  .sr-experiences-intro > .sr-page-intro {
+    width: 100%;
+    margin-bottom: 5px;
+  }
+  .sr-experience-kite {
+    position: relative;
+    top: auto;
+    right: auto;
+    width: min(440px, 100%);
+    margin: 0 0 14px auto;
+  }
+}
