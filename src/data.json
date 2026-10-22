@@ -1,0 +1,452 @@
+{
+  "trips": [
+    {
+      "id": "everest-base-camp-trek",
+      "title": "Unlimited Rajasthan Tour",
+      "destination": "Rajasthan",
+      "days": 8,
+      "price": 25999,
+      "originalPrice": 30999,
+      "image": "rajasthan",
+      "featured": true,
+      "styles": [
+        "Nature Friendly",
+        "Cultural",
+        "Budget Travel",
+        "Weekend Trips",
+        "Child-friendly"
+      ],
+      "overview": "Step into the royal land of Rajasthan and experience the magic of heritage, culture, and color like never before. This 8-day journey takes you through majestic forts, opulent palaces, golden deserts, and vibrant bazaars. Explore the Pink City of Jaipur, the blue streets of Jodhpur, the golden sands of Jaisalmer, and the romantic lakes of Udaipur. From camel rides at sunset to traditional folk performances and mouth-watering Rajasthani cuisine, every moment is a royal celebration. Discover the true essence of Rajasthan — where history lives in every wall, and every corner tells a timeless story.",
+      "facts": [
+        "Duration 07 Nights/08 Days",
+        "Accomodation Standard/Deluxe/Luxury Hotels",
+        "Best season October to March",
+        "Pick up Delhi",
+        "Tour type Eco-Tour",
+        "Meals Breakfast and Dinner",
+        "Payment Terms 50% advance, balance during trip",
+        "Fitness level Easy to Moderate"
+      ],
+      "itinerary": [
+        {
+          "heading": "Day 1 : Arrival in Jaipur",
+          "description": "Arrive in Jaipur, the capital of Rajasthan. Transfer to hotel and check-in. Later visit: ● Birla Temple ● Albert Hall Museum (optional) ● Explore local markets and bazaars Overnight stay at hotel in Jaipur."
+        },
+        {
+          "heading": "Day 2 : Jaipur – Bikaner (Approx. 330 km / 6 hrs)",
+          "description": "After breakfast, visit: ● Amber Fort ● Jal Mahal (photo stop) ● Hawa Mahal (outside view) ● City Palace Then depart for Bikaner. On arrival, check-in at hotel Overnight stay at hotel in Bikaner."
+        },
+        {
+          "heading": "Day 3 : Bikaner – Jaisalmer (Approx. 330 km / 6 hrs)",
+          "description": "After breakfast, visit: ● Junagarh Fort ● Lalgarh Palace ● Karni Mata Temple (Rat Temple, optional – en route) Then proceed to Jaisalmer, the Golden City. Check-in to the hotel on arrival. Overnight stay at hotel in Jaisalmer."
+        },
+        {
+          "heading": "Day 4 : Jaisalmer – Jodhpur (Approx. 285 km / 5–6 hrs)",
+          "description": "After breakfast, explore: ● Jaisalmer Fort (Sonar Quila) ● Patwon Ki Haveli ● Gadisar Lake ● Walk through Golden City streets Then depart for Jodhpur. On arrival, check-in at the hotel. Overnight stay at hotel in Jodhpur."
+        },
+        {
+          "heading": "Day 5 : Jodhpur – Mount Abu (Approx. 270 km / 5–6 hrs)",
+          "description": "After breakfast, visit: ● Mehrangarh Fort ● Jaswant Thada ● Umaid Bhawan Palace (Museum section) Then depart for Mount Abu, the only hill station in Rajasthan. Check-in at hotel upon arrival. Overnight stay at hotel in Mount Abu."
+        },
+        {
+          "heading": "Day 6 : : Mount Abu – Udaipur (Approx. 165 km / 3–4 hrs)",
+          "description": "After breakfast, explore Mount Abu: ● Dilwara Jain Temples ● Nakki Lake ● Toad Rock ● Sunset Point Later, depart for Udaipur. Check-in at hotel upon arrival. Overnight stay at hotel in Udaipur."
+        },
+        {
+          "heading": "Day 7 : Udaipur Sightseeing",
+          "description": "After breakfast, enjoy full-day sightseeing in the City of Lakes: ● City Palace Complex ● Jagdish Temple ● Saheliyon Ki Bari ● Fateh Sagar Lake ● Bagore Ki Haveli (optional: evening folk dance show) ● Optional boat ride on Lake Pichola Overnight stay at hotel in Udaipur."
+        },
+        {
+          "heading": "Day 08 : Departure from Udaipur",
+          "description": "After breakfast, check out from the hotel. Transfer to Udaipur Airport / Railway Station for onward journey. Tour ends with unforgettable memories of royal Rajasthan."
+        }
+      ],
+      "sourceUrl": "https://skyna.in/trip/everest-base-camp-trek/",
+      "sourceCardDays": 7
+    },
+    {
+      "id": "prague-czech-republic",
+      "title": "God’s Own Country",
+      "destination": "Kerala",
+      "days": 7,
+      "price": 17999,
+      "originalPrice": 21999,
+      "image": "kerala",
+      "featured": false,
+      "styles": [],
+      "overview": "Enjoy a romantic escape to Kerala’s beautiful backwaters, hill stations, and wildlife. Start in Kochi’s historic Fort area, cruise the serene Alleppey backwaters on a private houseboat, explore tea gardens in misty Munnar, and experience wildlife and spice plantations in Thekkady. Savor authentic Kerala cuisine and peaceful moments with your loved one for an unforgettable honeymoon.",
+      "facts": [
+        "Duration 05 Nights / 06 Days",
+        "Tour type Eco-Tour",
+        "Best season October to March",
+        "Pick up Cochin Airport / Railway Station",
+        "Accomodation Standard/Deluxe/Luxury Hotels",
+        "Meals Breakfast and Dinner",
+        "Payment Terms 50% advance, balance during trip",
+        "Fitness level Easy to Moderate"
+      ],
+      "itinerary": [
+        {
+          "heading": "Day 1 : Arrival in Cochin & Transfer to Munnar",
+          "description": "Pick-up from Cochin Airport / Railway Station. ● Scenic drive to Munnar, passing tea gardens, waterfalls & misty hills. ● En route visit: ○ Cheeyappara & Valara Waterfalls ○ Spice Plantations ● Check-in at a romantic resort. ● Evening at leisure with a private candlelight dinner (optional). Overnight stay in Munnar."
+        },
+        {
+          "heading": "Day 2 : Munnar Sightseeing",
+          "description": "Breakfast at resort. ● Visit: ○ Eravikulam National Park – Rare Nilgiri Tahr. ○ Mattupetty Dam & Lake – Boating with panoramic views. ○ Echo Point – Whisper your love & hear it echo back. ○ Kundala Lake – Peaceful boat ride. ○ Tea Museum – Learn & taste fresh tea. ● Evening leisure with flower bed decoration at the resort. Overnight stay in Munnar."
+        },
+        {
+          "heading": "Day 3 : Munnar to Thekkady",
+          "description": "Breakfast & check-out. ● Drive to Thekkady, famous for wildlife & spices. ● Check-in at resort. ● Enjoy Periyar Lake boat cruise or spice plantation walk. ● Evening: Watch a Kathakali dance or Kalaripayattu martial arts show (optional). Overnight stay in Thekkady."
+        },
+        {
+          "heading": "Day 4 : Thekkady to Kumarakom",
+          "description": "Breakfast & check-out. ● Drive to Kumarakom, a tranquil backwater village. ● Check-in at lake-facing resort. ● Enjoy a romantic sunset cruise on Vembanad Lake. Overnight stay in Kumarakom."
+        },
+        {
+          "heading": "Day 5 : Kumarakom to Alleppey (Houseboat Stay)",
+          "description": "Breakfast & check-out. ● Drive to Alleppey and board your private luxury houseboat. ● Cruise through backwaters, passing paddy fields & coconut groves. ● Relish onboard Kerala-style lunch, evening snacks & dinner. Overnight stay on houseboat."
+        },
+        {
+          "heading": "Day 6 : Departure",
+          "description": "Breakfast on the houseboat. ● Check-out & transfer to Cochin Airport / Railway Station. ● Tour ends with beautiful memories of your romantic Kerala escape."
+        },
+        {
+          "heading": "Day 7 : Dovan to Deurali",
+          "description": "When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek."
+        }
+      ],
+      "sourceUrl": "https://skyna.in/trip/prague-czech-republic/",
+      "sourceCardDays": 6
+    },
+    {
+      "id": "tiger-nest-monastery-tour-in-bhutan",
+      "title": "Magical Kashmir Tour",
+      "destination": "Kashmir",
+      "days": 7,
+      "price": 16999,
+      "originalPrice": 21999,
+      "image": "kashmir-hero",
+      "featured": false,
+      "styles": [
+        "Nature Friendly",
+        "Cultural",
+        "Budget Travel",
+        "High Altitude",
+        "Weekend Trips",
+        "Child-friendly"
+      ],
+      "overview": "Experience the unmatched beauty of Kashmir, often called “Paradise on Earth” , with this enchanting 7-day journey. From snow-capped peaks and shimmering lakes to lush valleys and vibrant gardens, this tour blends nature, culture, and serenity for an unforgettable escape. Begin in Srinagar , the summer capital, where you’ll enjoy a peaceful Shikara ride on Dal Lake, stay in a charming houseboat, and explore the Mughal Gardens with their colorful blooms. Travel to Gulmarg , a scenic wonderland known for its meadows, gondola rides, and winter sports. In summer, enjoy lush greenery and panoramic views of the Himalayas; in winter, witness a snowy paradise perfect for skiing. Head to Pahalgam , the “Valley of Shepherds,” where crystal-clear rivers and green meadows create a storybook setting. Enjoy leisurely walks, pony rides, and breathtaking views of Betaab and Aru valleys. Visit Sonmarg , the “Meadow of Gold,” famous for its alpine scenery, glaciers, and adventure opportunities. Throughout your journey, immerse yourself in Kashmiri culture, savor local delicacies like Rogan Josh and Kahwa, and take home handcrafted souvenirs from bustling markets. This magical escape promises a blend of romance, adventure, and soul-soothing beauty that will linger in your memories forever.",
+      "facts": [
+        "Accomodation Deluxe Hotels",
+        "Best season March to May, September to November",
+        "Tour type Eco-Tour",
+        "Meals Breakfast and Dinner",
+        "Fitness level Easy to Moderate"
+      ],
+      "itinerary": [
+        {
+          "heading": "Day 1 : Arrival in Jammu & Transfer to Patnitop",
+          "description": "Pick-up from Jammu Railway Station / Airport. ● Drive to Patnitop, a charming hill station known for its pine forests & panoramic views. ● Evening free for leisure. Overnight stay in Patnitop"
+        },
+        {
+          "heading": "Day 2 : Patnitop to Katra",
+          "description": "Breakfast at hotel. ● Drive to Katra. ● Check-in and prepare for Vaishno Devi Temple trek (optional). Overnight stay in Katra."
+        },
+        {
+          "heading": "Day 3 : Katra to Srinagar",
+          "description": "Breakfast & check-out. ● Scenic drive to Srinagar through breathtaking valleys. ● Check-in at hotel / houseboat. ● Evening free for leisure or Shikara ride on Dal Lake (optional). Overnight stay in Srinagar"
+        },
+        {
+          "heading": "Day 4 : Srinagar to Gulmarg",
+          "description": "Breakfast at hotel. ● Day trip to Gulmarg – enjoy Gondola ride (optional) and visit Golf Course. ● Evening return to Srinagar. Overnight stay in Srinagar."
+        },
+        {
+          "heading": "Day 5 : Srinagar to Pahalgam",
+          "description": "Breakfast & check-out. ● Drive to Pahalgam via Awantipura Ruins & Saffron Fields. ● Optional sightseeing: Aru Valley, Betaab Valley, Chandanwari. Overnight stay in Pahalgam."
+        },
+        {
+          "heading": "Day 6 : Pahalgam to Jammu",
+          "description": "Breakfast & check-out. ● Drive back to Jammu. ● Evening free for local sightseeing and shopping. Overnight stay in Jammu."
+        },
+        {
+          "heading": "Day 7 : Departure",
+          "description": "Breakfast & check-out. ● Drop at Jammu Railway Station / Airport. ● Tour ends with magical memories of Kashmir"
+        }
+      ],
+      "sourceUrl": "https://skyna.in/trip/tiger-nest-monastery-tour-in-bhutan/",
+      "sourceCardDays": 7
+    },
+    {
+      "id": "romantic-sri-lanka-honeymoon-package",
+      "title": "Manali Honeymoon Package",
+      "destination": "Himachal Pradesh",
+      "days": 5,
+      "price": 6499,
+      "originalPrice": 8499,
+      "image": "trekking",
+      "featured": false,
+      "styles": ["High Altitude"],
+      "overview": "Experience romance in the lap of the Himalayas with our specially curated Manali Honeymoon Package . This 5 Nights / 6 Days getaway offers the perfect blend of scenic beauty, luxury stays, and unforgettable moments. Enjoy candlelight dinners, flower bed decorations, private sightseeing to Solang Valley and Rohtang Pass, and cozy mountain view rooms – all designed to make your honeymoon truly magica",
+      "facts": [
+        "Duration 05 Nights / 06 Days",
+        "Tour type Eco-Tour",
+        "Pick up Delhi",
+        "Best season December to February",
+        "Accomodation Standard/Deluxe/Luxury Hotels",
+        "Meals Breakfast and Dinner",
+        "Payment Terms 50% advance & remaining during the trip",
+        "Fitness level Easy to Moderate"
+      ],
+      "itinerary": [
+        {
+          "heading": "Day 01 : Delhi – Dharamshala",
+          "description": "On arrival in Manali check into the hotel. Day is free to relax. Post lunch visit to Hadimba Devi Temple , Club House, Vashist Kund, Van Vihar and Tibetan Monastery. Dinner & Overnight in the hotel."
+        },
+        {
+          "heading": "Day 02 : Manali – Solang Valley/ Rohtang Pass",
+          "description": "Early morning depart for full day excursion to Rohtang Pass/Solang Valley (51 Km, 3 Hrs one side) (if weather permits we will go to Rohtang Pass otherwise all the activities will shift to Solang Valley). Rohtang Pass, at an altitude of more than 13000 feet, is the gateway to Lahaul, Spiti and Ladakh. Enjoy lots of adventurous activities there i.e. Skiing/ Snow Bike/ Pony Riding etc. (at your own cost). Enroute visit to Nehru Kund, Gulaba, Rahalla falls and Rani Nallah. Dinner & Overnight in the hotel."
+        },
+        {
+          "heading": "Day 03 : Manali – Kullu- Manali",
+          "description": "After breakfast we will move to Kullu sightseeing of Kullu which is famous for River Rafting and Shawl Factroy in and visit to Manaikaran which is famous for Hot water spring and having a holy Gurudwara. Over Night stay at Manali Hotel."
+        },
+        {
+          "heading": "Day 04 : Manali - Delhi",
+          "description": "After breakfast day is free to stroll on the mall or for shopping. Afternoon board the New Delhi bound A/c Volvo Coach. (580 Kms. / 12-13 Hours)"
+        },
+        {
+          "heading": "Day 05 : Delhi",
+          "description": "In the morning you will reach to Delhi Kashmiri Gate Bus Stand and your tour ends."
+        }
+      ],
+      "sourceUrl": "https://skyna.in/trip/romantic-sri-lanka-honeymoon-package/",
+      "sourceCardDays": 6
+    },
+    {
+      "id": "fantastic-maldives-tour-package",
+      "title": "Unlimited Uttarakhand Tour",
+      "destination": "Uttarakhand",
+      "days": 8,
+      "price": 20000,
+      "originalPrice": 25999,
+      "image": "trekking",
+      "featured": true,
+      "styles": [],
+      "overview": "Embark on an unforgettable journey through the scenic wonders and cultural gems of Uttarakhand . Start with the spiritual aura of Haridwar , feel the cool mountain breeze in Mussoorie , and enjoy the charm of Nainital’s shimmering lakes. Experience the wild side at Jim Corbett with thrilling jungle safaris, and soak in breathtaking Himalayan views at every stop. This tour blends adventure, nature, and peace – making it perfect for couples, families, and friends who want to explore it all in one amazing trip.",
+      "facts": [
+        "Duration 07 Nights/08 Days",
+        "Tour type Eco-Tour",
+        "Pick up New Delhi",
+        "Best season March–June,September–November",
+        "Accomodation Standard/Deluxe/Luxury Hotels",
+        "Meals Breakfast and Dinner",
+        "Payment Terms 50% advance & remaining during the trip",
+        "Fitness level Easy to Moderate"
+      ],
+      "itinerary": [
+        {
+          "heading": "Day 01 : New Delhi – Haridwar",
+          "description": "Depart from New Delhi to Haridwar (approx. 5–6 hrs drive). On arrival, check-in to the hotel. In the evening, visit Har Ki Pauri for the holy Ganga Aarti. Explore local markets or visit Mansa Devi Temple via ropeway (if time permits). Overnight stay at hotel in Haridwar."
+        },
+        {
+          "heading": "Day 02 : Haridwar – Mussoorie",
+          "description": "After breakfast, depart for Mussoorie (approx. 4–5 hrs). En route, you may stop for sightseeing in Dehradun: Robber’s Cave, Sahastradhara, or Tapkeshwar Temple (optional). Arrive in Mussoorie, check-in to the hotel. Evening free to walk around Mall Road and enjoy the pleasant weather. Overnight stay at hotel in Mussoorie."
+        },
+        {
+          "heading": "Day 03 : Mussoorie",
+          "description": "After breakfast, explore the attractions of Mussoorie: Visit Kempty Falls, Lal Tibba, Gun Hill Point, and Camel’s Back Road. Also visit Company Garden and enjoy panoramic views. Evening free for shopping and leisure. Overnight stay at hotel in Mussoorie."
+        },
+        {
+          "heading": "Day 04 : Mussoorie – Nainital",
+          "description": "After early breakfast, depart for Nainital (approx. 9–10 hrs drive). On arrival, check into the hotel and relax. Evening free to visit Naini Lake or enjoy a stroll on Mall Road. Overnight stay at hotel in Nainital."
+        },
+        {
+          "heading": "Day 05 : Nainital",
+          "description": "After breakfast, go for local sightseeing in and around Nainital: Visit Khurpatal, Bhimtal, Naukuchiatal, and Sattal. In the evening, visit Naina Devi Temple, Tibetan Market, and enjoy shopping. Optional: Enjoy boating in Naini Lake or take the cable car to Snow View Point. Overnight stay at hotel in Nainital."
+        },
+        {
+          "heading": "Day 06 : Nainital – Corbett",
+          "description": "After breakfast, check-out from hotel and drive to Jim Corbett National Park (approx. 2–3 hrs) On arrival, check into the hotel/resort. Evening free to explore nearby forest area or relax at the resort. Overnight stay at hotel in Corbett"
+        },
+        {
+          "heading": "Day 07 : Corbett",
+          "description": "Early morning, go for an exciting Jeep Safari (on direct payment) in Corbett National Park. Return to the resort for breakfast. Day free for leisure or explore Garjia Temple and Corbett Museum. Overnight stay at hotel in Corbett."
+        },
+        {
+          "heading": "Day 08 : Corbett – New Delhi",
+          "description": "After breakfast, check-out and drive back to New Delhi (approx. 6–7 hrs). Tour ends with happy memories of Uttarakhand."
+        }
+      ],
+      "sourceUrl": "https://skyna.in/trip/fantastic-maldives-tour-package/",
+      "sourceCardDays": 11
+    },
+    {
+      "id": "5-days-tour-to-philippines",
+      "title": "Goa Beach Tour",
+      "destination": "Goa",
+      "days": 4,
+      "price": 5999,
+      "originalPrice": 9999,
+      "image": "goa",
+      "featured": true,
+      "styles": [
+        "Nature Friendly",
+        "Cultural",
+        "Budget Travel",
+        "Home Stay",
+        "Weekend Trips",
+        "Child-friendly"
+      ],
+      "overview": "Discover the magic of Goa with its golden beaches, vibrant nightlife, and rich cultural heritage. Spend your days soaking up the sun at North Goa’s famous beaches like Baga, Calangute, and Anjuna, enjoying thrilling water sports or relaxing by the shore. Explore South Goa’s serene spots such as Colva and Palolem, perfect for peaceful strolls and stunning sunset views. Beyond the beaches, immerse yourself in Goa’s charm with visits to historic churches, colorful markets, and scenic river cruises on the Mandovi. Savor delicious Goan cuisine, dance to lively music at beach shacks, and make unforgettable memories in this tropical paradise.",
+      "facts": [
+        "Pick up Goa Airport / Railway Station by private vehicle",
+        "Accomodation Deluxe Hotels",
+        "Best season November to February",
+        "Tour type Eco-Tour",
+        "Meals Breakfast and Dinner",
+        "Fitness level Easy to Moderate"
+      ],
+      "itinerary": [
+        {
+          "heading": "Day 1 : Arrival in Goa | Leisure & Beach Time",
+          "description": "Pick-up from Goa Airport / Railway Station by private vehicle. ● Transfer to hotel/resort & check-in. ● Freshen up and relax after your journey. ● Evening at leisure — head to a nearby beach like Calangute or Baga for sunset views. ● Explore local shacks, try Goan seafood, or sip a chilled drink by the shore. Overnight stay in Goa."
+        },
+        {
+          "heading": "Day 2 : North Goa Sightseeing",
+          "description": "Breakfast at the hotel. ● Full-day North Goa tour covering: ○ Fort Aguada – Historic Portuguese fort with sea views. ○ Candolim Beach – Serene vibes before the bustle of Baga. ○ Calangute Beach – Queen of beaches. ○ Baga Beach – Famous for water sports & nightlife. ○ Anjuna Beach – Known for flea markets & rocky shores. ○ Vagator Beach – Dramatic red cliffs & sunset points. ● Evening free to enjoy nightlife or beach walks. Overnight stay in Goa."
+        },
+        {
+          "heading": "Day 3 : South Goa Sightseeing",
+          "description": "Breakfast at the hotel. ● Full-day South Goa tour covering: ○ Old Goa Churches – UNESCO sites like Basilica of Bom Jesus & Se Cathedral. ○ Mangueshi Temple & Shantadurga Temple – Spiritual landmarks. ○ Dona Paula View Point – Stunning sea panoramas. ○ Miramar Beach – Calm and scenic. ○ Colva Beach – Relax or indulge in beach activities. ● Evening free for shopping or local café hopping Overnight stay in Goa"
+        },
+        {
+          "heading": "Day 4 : Departure from Goa",
+          "description": "Breakfast at the hotel. ● Check-out and transfer to Goa Airport / Railway Station. ● Trip ends with fond memories of sun, sand, and sea"
+        }
+      ],
+      "sourceUrl": "https://skyna.in/trip/5-days-tour-to-philippines/",
+      "sourceCardDays": 4
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Moida",
+      "text": "I had planned my kashmir trip with them some weeks ago ..it went nice and smooth, definitely recommended!!!",
+      "rating": 4,
+      "platform": "Google",
+      "source_url": "https://skyna.in/",
+      "source_widget": "Trustindex",
+      "source_timestamp": "1789344000",
+      "avatar_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXNNRhcBXvHL61GD7eVfyII2GGb5d_qaLr2_lyS3ntguI0l1wb=w40-h40-c-rp-mo-br100"
+    },
+    {
+      "name": "prashansa",
+      "text": "Had a really great experience booking our trip through Skyna everything was managed smoothly from the stays to the travel arrangements the service was top notch and super hassle free definitely booking our next trip with them again👍✨",
+      "rating": 5,
+      "platform": "Google",
+      "source_url": "https://skyna.in/",
+      "source_widget": "Trustindex",
+      "source_timestamp": "1789084800",
+      "avatar_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_G69qG4iTADVM1bJby4GnycDgXz1eEzS4SW8HzGCsjVB-BxdY=w40-h40-c-rp-mo-br100"
+    },
+    {
+      "name": "Vardeep Singh",
+      "text": "We recently booked our international trip to Canada with Skyna Travel, and we had a wonderful experience! ✈️🇨🇦 From planning and bookings to the overall arrangements, everything was managed very smoothly and professionally. The entire trip was well organized, and we were really happy with the services provided.\n\nA special thanks to Jaipriya for being so helpful and supportive throughout the journey. Highly recommended! 😊✨",
+      "rating": 5,
+      "platform": "Google",
+      "source_url": "https://skyna.in/",
+      "source_widget": "Trustindex",
+      "source_timestamp": "1788825600",
+      "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIvlfB-1uspcw09_G8DQzV9He_ZZ-J09jJRX6juevk_jxVKNko=w40-h40-c-rp-mo-br100"
+    },
+    {
+      "name": "Piyush Aggarwal",
+      "text": "I recently booked a trip through skyna travel company and it was indeed a good experience! Their itinerary management, accommodation, timing, and customer service are good. They made sure everything went smoothly throughout the journey. I truly appreciate their effort and  professionalism. Will definitely book with them again.",
+      "rating": 5,
+      "platform": "Google",
+      "source_url": "https://skyna.in/",
+      "source_widget": "Trustindex",
+      "source_timestamp": "1785196800",
+      "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocLAYHzJtKVjwCPfMVxaSZ0sqgFAUOAmhzWwLL4C78ozJg5YuQ=w40-h40-c-rp-mo-br100"
+    },
+    {
+      "name": "RD COLLECTION",
+      "text": "We got the best travel assistance from skyna.\nPlanned a really great Goa trip for us.\nHighly recommended by us\nThank you.",
+      "rating": 5,
+      "platform": "Google",
+      "source_url": "https://skyna.in/",
+      "source_widget": "Trustindex",
+      "source_timestamp": "1780272000",
+      "avatar_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3RD9PDyXDiOrOE5ejwafLJbLYA7LNQgIwLFGEDSvMGPf6GVPh=w40-h40-c-rp-mo-br100"
+    },
+    {
+      "name": "Komal Thakur",
+      "text": "Had a great experience with SKYNA Corporate & Leisure Travel! Everything was well-organized, the team was helpful, and the booking process was super smooth. Highly recommended for hassle-free travel planning!",
+      "rating": 5,
+      "platform": "Google",
+      "source_url": "https://skyna.in/",
+      "source_widget": "Trustindex",
+      "source_timestamp": "1779148800",
+      "avatar_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWTernPuFtp_BARSoBU0f5QnDLX8KISrZI9_M50PhT_2sqKLiLwg=w40-h40-c-rp-mo-br100"
+    },
+    {
+      "name": "ISP Vlogs",
+      "text": "We booked our international trip to Australia from skyna travel company they managed everything and the arrangements were soo Good. We liked their services\nThank you jaipriya 😊😊",
+      "rating": 5,
+      "platform": "Google",
+      "source_url": "https://skyna.in/",
+      "source_widget": "Trustindex",
+      "source_timestamp": "1776297600",
+      "avatar_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9xuABfCEhDV-l6IqipKKmv9nYQYE1LHfHCCCVAFeVV9C0b8ma=w40-h40-c-rp-mo-br100"
+    },
+    {
+      "name": "Sri Mahalakshmi Astro",
+      "text": "We recently booked our trip through Skyna Tourism and had a nice experience. The booking process was smooth, and all arrangements were well managed. Overall, it was a comfortable and enjoyable trip. Would recommend their services.",
+      "rating": 5,
+      "platform": "Google",
+      "source_url": "https://skyna.in/",
+      "source_widget": "Trustindex",
+      "source_timestamp": "1773705600",
+      "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIXlEpj1xsQ2a1nB_xHdiIl5tSG9IM6hUBP6dHUvuz6iLz9QA=w40-h40-c-rp-mo-br100"
+    },
+    {
+      "name": "Shivali Sharma",
+      "text": "We booked goa trip and we loved everything and the services was outstanding Good company. THANK YOU  Skyna 🥹🙏🏻",
+      "rating": 5,
+      "platform": "Google",
+      "source_url": "https://skyna.in/",
+      "source_widget": "Trustindex",
+      "source_timestamp": "1771372800",
+      "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocIeQ6Nb7-oVSkFgqDvCrWUILGDCR8IaYn5RSmYZvr7JgpdjrQ=w40-h40-c-rp-mo-br100"
+    },
+    {
+      "name": "Samyak Jain",
+      "text": "Thankyou Skyna! Me and my friends really enjoyed the tour. The communication was very good too.",
+      "rating": 5,
+      "platform": "Google",
+      "source_url": "https://skyna.in/",
+      "source_widget": "Trustindex",
+      "source_timestamp": "1770163200",
+      "avatar_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgBWRw3H-I2j74qlW9KifwJ-c4L1DINl2FGV1ni-79r9QqJQrTMA=w40-h40-c-rp-mo-br100"
+    }
+  ],
+  "destinations": [
+    "Goa",
+    "Kerala",
+    "Rajasthan",
+    "Kashmir",
+    "Himachal Pradesh",
+    "Uttarakhand",
+    "Ooty & Mysore"
+  ],
+  "styles": [
+    "Budget Travel",
+    "Child-friendly",
+    "Cultural",
+    "High Altitude",
+    "Home Stay",
+    "Nature Friendly",
+    "Volunteer Travel",
+    "Weekend Trips"
+  ]
+}
